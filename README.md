@@ -1,6 +1,6 @@
 # Blockchain_Wallets
 
-![An image shows a wallet with bitcoin.](Instructions/Starter-Code/Images/19-4-challenge-image.png)
+![An image shows a wallet with bitcoin.](Instructions/My_Code/Images/19-4-challenge-image.png)
 
 ### Background
 
@@ -12,19 +12,19 @@ This project aims to incorporate the Ethereum blockchain network into an app so 
 * Sign and Execute a Payment Transaction
 * Inspect the Transaction on Ganache
 
-#### Executable file launch
-![Executable file](Instructions/Starter-Code/Images/executable_file_launch.PNG)
-
 #### Fintech professional finder app
-![Fintech finder app](Instructions/Starter-Code/Images/fintech_finder.PNG)
+![Fintech finder app](Instructions/My_Code/Images/fintech_finder.PNG)
 
 #### Ganache 
-![Ganache pre balance](Instructions/Starter-Code/Images/ganache_pre.PNG)
+![Ganache pre balance](Instructions/My_Code/Images/ganache_pre.PNG)
 
-![Ganach post balance](Instructions/Starter-Code/Images/ganache_post.PNG)
+![Ganach post balance](Instructions/My_Code/Images/ganache_post.PNG)
 #### Ganache transaction 
-![Ganach transaction](Instructions/Starter-Code/Images/transaction.PNG)
+![Ganach transaction](Instructions/My_Code/Images/transaction.PNG)
 #### Ganache block
-![Ganach tblock](Instructions/Starter-Code/Images/block.PNG)
+![Ganach tblock](Instructions/My_Code/Images/block.PNG)
+
+#### Executable file launch
+![Executable file](Instructions/My_Code/Images/executable_file_launch.PNG)
 
 ---
