@@ -8,9 +8,9 @@ This project aims to incorporate the Ethereum blockchain network into an app so 
 
 ### Steps completed
 
-* Import Ethereum Transaction Functions into the Fintech Finder Application
-* Sign and Execute a Payment Transaction
-* Inspect the Transaction on Ganache
+* Import ethereum transaction functions into the fintech finder application
+* Sign and execute a payment transaction
+* Inspect the transaction on ganache
 
 #### Fintech professional finder app
 ![Fintech finder app](Instructions/My_Code/Images/fintech_finder.PNG)
