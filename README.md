@@ -1,25 +1,30 @@
 # Blockchain_Wallets
 
-![An image shows a wallet with bitcoin.](Images/19-4-challenge-image.png)
+![An image shows a wallet with bitcoin.](Instructions/Starter-Code/Images/19-4-challenge-image.png)
 
 ### Background
 
 This project aims to incorporate the Ethereum blockchain network into an app so that customers can pay fintech specialists they hire with cryptocurrency instantly.
 
-### Steps Completed
+### Steps completed
 
 * Import Ethereum Transaction Functions into the Fintech Finder Application
 * Sign and Execute a Payment Transaction
 * Inspect the Transaction on Ganache
 
-![Executable file](Images/executable_file_launch.png)
+#### Executable file launch
+![Executable file](Instructions/Starter-Code/Images/executable_file_launch.PNG)
 
-![Fintech finder app](Images/fintech_finder.png)
+#### Fintech professional finder app
+![Fintech finder app](Instructions/Starter-Code/Images/fintech_finder.PNG)
 
-![Ganache pre balance](Images/ganach_pre.png)
+#### Ganache 
+![Ganache pre balance](Instructions/Starter-Code/Images/ganache_pre.PNG)
 
-![Ganach post balance](Images/ganach_post.png)
+![Ganach post balance](Instructions/Starter-Code/Images/ganache_post.PNG)
+#### Ganache transaction 
+![Ganach transaction](Instructions/Starter-Code/Images/transaction.PNG)
+#### Ganache block
+![Ganach tblock](Instructions/Starter-Code/Images/block.PNG)
 
-![Ganach transaction](Images/transaction.png)
-
-![Ganach tblock](Images/block.png)
+---
